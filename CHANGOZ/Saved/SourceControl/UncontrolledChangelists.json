@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/El-juego-de-los-changoz/CHANGOZ/Content/Characters/BP_PlayerController.uasset",
+				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/El-juego-de-los-changoz/CHANGOZ/Content/Characters/BP_Chango.uasset",
+				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/El-juego-de-los-changoz/CHANGOZ/Content/Characters/BP_PlayerPawn.uasset",
+				"C:/Users/inaki/OneDrive/Desktop/School/TRI 3/El-juego-de-los-changoz/CHANGOZ/Content/BP_Weapon.uasset"
+			]
+		}
+	]
+}
